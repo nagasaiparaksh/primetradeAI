@@ -90,19 +90,5 @@ Contains:
 
 The analysis demonstrates that Bitcoin market sentiment plays a major role in shaping trader behavior, profitability, and market participation. Traders who maintain disciplined strategies across varying sentiment conditions tend to perform more consistently over time.
 
----
 
-## Repository Structure
-
-```text
-Primetrade-Assignment/
-│
-├── notebook/
-│   └── primetrade_analysis.ipynb
-│
-├── report/
-│   └── final_report.pdf
-│
-├── README.md
-│
 └── requirements.txt
